@@ -1,1 +1,4 @@
 don't copy the code
+write clean code 
+keep it simple
+you are all set
